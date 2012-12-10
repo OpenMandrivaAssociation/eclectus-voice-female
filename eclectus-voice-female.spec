@@ -28,3 +28,15 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root)
 %{_datadir}/eclectus/cmn-caen-tan
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2-2mdv2011.0
++ Revision: 610340
+- rebuild
+
+* Sat Dec 12 2009 Funda Wang <fwang@mandriva.org> 0.2-1mdv2010.1
++ Revision: 477805
+- import eclectus-voice-female
+
+
